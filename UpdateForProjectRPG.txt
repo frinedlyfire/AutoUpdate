@@ -2,6 +2,6 @@
 /data/Map001.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map001.json
 <End of Version>
 
-<Version: 1.02>
+<Version: 1.03>
 /data/Map002.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map00.json
 <End of Version>
