@@ -10,4 +10,10 @@
 /data/Map003.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map003.json
 <End of Version>
 
+<Version: 1.04>
+/data/Map004.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map004.json
+<End of Version>
 
+<Version: 1.05>
+/data/Map005.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map005.json
+<End of Version>
