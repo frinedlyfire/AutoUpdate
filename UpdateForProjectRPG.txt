@@ -1,9 +1,9 @@
 <Version: 1.01>
-/data/Map001.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map001.json
+/data/Map001.json https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map001.json
 <End of Version>
 
 <Version: 1.02>
-/data/Map002.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map002.json
+/data/Map002.json https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map002.json
 <End of Version>
 
 <Version: 1.03>
@@ -11,9 +11,9 @@
 <End of Version>
 
 <Version: 1.04>
-/data/Map004.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map004.json
+/data/Map004.json https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map004.json
 <End of Version>
 
 <Version: 1.05>
-/data/Map005.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map005.json
+/data/Map005.json https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map005.json
 <End of Version>
