@@ -1,7 +1,7 @@
 <Version: 1.01>
-Project1Update.zip https://www.dropbox.com/s/nufi32wx30wugni/Project1Update.zip
+/data/Map001.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map001.json
 <End of Version>
 
 <Version: 1.02>
-Project1Update.zip https://www.dropbox.com/s/nufi32wx30wugni/Project1Update.zip
+/data/Map002.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map00.json
 <End of Version>
