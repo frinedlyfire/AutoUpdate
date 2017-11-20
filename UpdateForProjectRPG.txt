@@ -7,7 +7,7 @@
 <End of Version>
 
 <Version: 1.03>
-/data/Map003.jason https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map003.json
+/data/Map003.json https://raw.githubusercontent.com/frinedlyfire/AutoUpdate/master/Map003.json
 <End of Version>
 
 <Version: 1.04>
